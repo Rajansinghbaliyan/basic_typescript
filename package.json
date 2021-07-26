@@ -1,0 +1,23 @@
+{
+  "name": "user_company_on_map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/faker": "^5.5.7",
+    "@typescript-eslint/eslint-plugin": "^4.28.4",
+    "@typescript-eslint/parser": "^4.28.4",
+    "eslint": "^7.31.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "@types/googlemaps": "^3.43.3",
+    "faker": "^5.5.3"
+  }
+}
